@@ -1,0 +1,67 @@
+QCheckBox#check_box_pin_::checked {
+    border-image: url(:/paperclip_clipped.png);
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-position: center; /* Center the image */
+    border: none;
+}
+
+QCheckBox#check_box_pin_ {
+    border-image: url(:/paperclip_unclipped.png);
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-position: center; /* Center the image */
+    border: none;
+}
+QCheckBox#check_box_pin_::indicator {
+    width: 24px;
+    height: 24px;
+    background-color: rgba(0,0,0,0);
+    border-width: 0px;
+}
+QCheckBox#check_box_pin_::indicator:checked {
+    background-color: rgba(0,0,0,0);
+}
+QCheckBox#check_box_pin_::indicator:checked {
+    border-color: rgba(0,0,0,0);
+}
+QCheckBox#check_box_pin_:checked {
+    background-color: rgba(0,0,0,0);
+}
+
+
+QCheckBox#check_box_random_figure_::checked {
+    border-image: url(:/shocked.png);
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-position: center; /* Center the image */
+    border: none;
+}
+
+QCheckBox#check_box_random_figure_ {
+    border-image: url(:/happy.png);
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-position: center; /* Center the image */
+    border: none;
+}
+
+QCheckBox#check_box_random_figure_::indicator {
+    width: 24px;
+    height: 24px;
+    background-color: rgba(0,0,0,0);
+    border-width: 0px;
+}
+QCheckBox#check_box_random_figure_::indicator:checked {
+    background-color: rgba(0,0,0,0);
+}
+QCheckBox#check_box_random_figure_::indicator:checked {
+    border-color: rgba(0,0,0,0);
+}
+QCheckBox#check_box_random_figure_:checked {
+    background-color: rgba(0,0,0,0);
+}
+
+QPushButton{
+    background-color: @gray3;
+
+    border: 2px solid @gray4;
+    border-radius: 15px;
+
+}

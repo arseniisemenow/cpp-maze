@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>FileDialogStyles.qss</file>
+        <file>MenuBarStyles.qss</file>
+        <file>MainWindowStyles.qss</file>
+        <file>InputManagerStyles.qss</file>
+    </qresource>
+</RCC>

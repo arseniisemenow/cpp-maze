@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>company_logo.png</file>
+        <file>paperclip_clipped.png</file>
+        <file>paperclip_unclipped.png</file>
+        <file>happy.png</file>
+        <file>shocked.png</file>
+        <file>human_open_parentheses_scary_close_parentheses.png</file>
+    </qresource>
+</RCC>
