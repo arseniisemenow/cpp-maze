@@ -7,7 +7,7 @@
 
 ### Introduction
 
-This Maze program is designed to generate and render perfect mazes and caves. It is implemented in C++17 and follows the Google C++ style guide. The GUI is implemented using the Qt library, providing a user-friendly interface for maze interaction.
+This Maze program is designed to generate and render perfect mazes. It is implemented in C++17 and follows the Google C++ style guide. The GUI is implemented using the Qt library, providing a user-friendly interface for maze interaction.
 
 ## Features
 
